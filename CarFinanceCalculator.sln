@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinanceCalculator.Domain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinanceCalculator.Domain.Tests", "CarFinanceCalculator.Domain.Tests\CarFinanceCalculator.Domain.Tests.csproj", "{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinanceCalculator.Wpf", "CarFinanceCalculator.Wpf\CarFinanceCalculator.Wpf.csproj", "{43819EF3-14E4-47FB-B220-960624EA9630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinanceCalculator.Forms", "CarFinanceCalculator.Forms\CarFinanceCalculator.Forms.csproj", "{3AE545F1-6F09-4442-804A-67923AF3834F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43819EF3-14E4-47FB-B220-960624EA9630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43819EF3-14E4-47FB-B220-960624EA9630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43819EF3-14E4-47FB-B220-960624EA9630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43819EF3-14E4-47FB-B220-960624EA9630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE545F1-6F09-4442-804A-67923AF3834F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE545F1-6F09-4442-804A-67923AF3834F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE545F1-6F09-4442-804A-67923AF3834F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE545F1-6F09-4442-804A-67923AF3834F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
