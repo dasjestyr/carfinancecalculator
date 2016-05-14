@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinanceCalculator.Domain", "CarFinanceCalculator.Domain\CarFinanceCalculator.Domain.csproj", "{954EEF19-F14C-4F16-B47E-69124AB4AEDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFinanceCalculator.Domain.Tests", "CarFinanceCalculator.Domain.Tests\CarFinanceCalculator.Domain.Tests.csproj", "{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{954EEF19-F14C-4F16-B47E-69124AB4AEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954EEF19-F14C-4F16-B47E-69124AB4AEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954EEF19-F14C-4F16-B47E-69124AB4AEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AE3AB6-8140-4887-943D-68F92CB5FEBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
